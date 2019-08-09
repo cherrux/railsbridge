@@ -1,0 +1,5 @@
+gem install bundler -v '1.17.3' --without production 
+bundle _1.17.3_ install --without production
+
+gem install bundler -v 1.0.10
+bundle _1.0.10_ install
